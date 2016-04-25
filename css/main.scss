@@ -68,6 +68,9 @@ body {
 	z-index: 50;
 		
 }
+.site-nav{
+	margin-left:100px;
+}
 .schimb {
 	width: 50%;
 	height: auto;
@@ -98,7 +101,7 @@ nav ul {
 	color: #FFF;
 	padding: 0;
 	float: right;
-	margin: 0 0 0 50px;
+	margin: 0;
 	-webkit-transition: max-height 0.4s;
 	-moz-transition: max-height 0.4s;
 	-o-transition: max-height 0.4s;
