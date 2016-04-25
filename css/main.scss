@@ -60,7 +60,7 @@ body {
 }
 
 #header {
-	width: 60%;
+	width: 65%;
 	height: auto;
 	padding: 0 5%;
 	transition: ease-in-out 500ms;
@@ -68,8 +68,11 @@ body {
 	z-index: 50;
 		
 }
+.site-title{
+	margin-left:-100px;
+}
 .schimb {
-	width: 60%;
+	width: 65%;
 	height: auto;
 	padding: 0 5%;
 	transition: ease-in-out 500ms;
